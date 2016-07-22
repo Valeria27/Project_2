@@ -1,6 +1,6 @@
 .nav{
 	margin-left: 35%;
-
+	padding-top: 13px;
 }
 .nav-btn{
 	border: none;
@@ -17,6 +17,22 @@ button {
 }
 
 .fa{
-	color: red;
-	font-size: 120px;
+		font-size: 120px;
+		color: #adadad;
+}
+.logo{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+    margin-left: 15%;
+}
+
+.top-row{
+	    padding: 15px;
+	    height: 50px;
+}
+.quote-request{
+	background-color: #719dca;
+	width:101%;
+	height: 500px;
 }
