@@ -1,0 +1,22 @@
+.nav{
+	margin-left: 35%;
+
+}
+.nav-btn{
+	border: none;
+	background-color: #fff;
+	color:#b8b8b8;
+}
+.btn-active{
+	background-color: #ffbb42;
+	color: #fff;
+}
+button {
+	text-transform: uppercase;
+	padding: 5px;
+}
+
+.fa{
+	color: red;
+	font-size: 120px;
+}
