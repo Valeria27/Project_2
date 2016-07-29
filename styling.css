@@ -1,3 +1,4 @@
+html,body{margin: 0;}
 .nav{
 	margin-left: 35%;
 	padding-top: 13px;
@@ -6,6 +7,8 @@
 	border: none;
 	background-color: #fff;
 	color:#b8b8b8;
+	text-transform: uppercase;
+	padding: 5px;
 }
 .btn-active{
 	background-color: #ffbb42;
@@ -33,6 +36,55 @@ button {
 }
 .quote-request{
 	background-color: #719dca;
-	width:101%;
+	width:100%;
 	height: 500px;
+}
+.inpute{
+	position: relative;
+	margin-right: 15px;
+	}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.field-with-icon{
+	padding-left: 20px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.container-center {
+	margin: 0 auto;
+	max-width: 1200px;
+	text-align: center;
+	padding: 25px;
+}
+span{position: absolute;
+margin: 5px;}
+.float-left{
+	float: left;
+}
+.float-right{
+	float: right;
+}
+.text-white{
+	color: #fff;
+}
+.push-down {
+	margin-top: 200px;
+}
+.extra-text{
+	margin-top: -18px;
+}
+.column-text{
+	width: 50%;
+	text-align: left;
+}
+.service-name{
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 14px;
+	margin-top: 50px;
+    margin-bottom: -12px;
 }
